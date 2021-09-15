@@ -1,4 +1,4 @@
-# Puzzle & Dragons_like_Mobile_game_path_finding_algorithm
+# Puzzle & Dragons like Mobile_game_path_finding_algorithm
 
 I did this project when I was in University.
 
