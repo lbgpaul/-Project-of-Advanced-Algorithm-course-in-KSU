@@ -48,5 +48,5 @@ Exhaust method process slower, but because it scans everything, so it can get th
 
 **result**
 
-<img src="images/result.png" width = "500" >
+<img src="images/result.png" width = "1000" >
 
