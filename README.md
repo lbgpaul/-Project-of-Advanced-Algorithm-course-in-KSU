@@ -20,7 +20,14 @@ First, using everage combo(score) / cost(step numbeers) rate to evaluate.
 
 Scound, just compare who can get the most combom.
 
+
+
 **Some thought to solve this problem**
 
+The first method we thought was "Scanning the whole picture first, and decide which location is the obstacle, then we may get the path."
+However, there is a problem, sometimes, the obstacles number will be too many to do anything.
 
 
+The second method is to do kind of divide and conquer, solve the problem from the small scale.
+However, the problem is, the original scale (6X5) isn't so big. So if we do that divide and conquer the separate function isn't that efficient,
+And sometimes, we may separe the set cross the to area.
