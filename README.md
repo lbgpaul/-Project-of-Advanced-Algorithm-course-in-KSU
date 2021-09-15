@@ -18,7 +18,7 @@ How to evaluate the program? I had two ideas.
 
 First, using everage combo(score) / cost(step numbeers) rate to evaluate.
 
-Scound, just compare who can get the most combom.
+Scound, Set a steps number, and just compare who can get the most combom. (we set 3 move for each step, and 3 steps. Total 9 moves, then compare the combo number.)
 
 
 
