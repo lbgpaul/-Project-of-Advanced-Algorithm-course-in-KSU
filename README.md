@@ -46,7 +46,7 @@ A* algorithm process faster and can get a fine answer, not the best.
 
 Exhaust method process slower, but because it scans everything, so it can get the best result, the every set is high.
 
-**result**
+**result** DO 100 times to get a average combo number.
 
 <img src="images/result.png" width = "1000" >
 
